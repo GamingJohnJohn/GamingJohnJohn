@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GamingJohnJohn
+- 👋 Hi, I’m @CCTstudio
 - 👀 I’m interested in coding and devlog
 - 🌱 I’m currently learning Advance scratch program
 - 💞️ I’m looking to collaborate on either here (Github), Game Jolt, Itch or Scratch
